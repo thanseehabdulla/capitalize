@@ -1,0 +1,19 @@
+{
+  "name": "capitalize-ats",
+  "version": "1.0.0",
+  "description": "capitalize the first letter in word breaks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanseehabdulla/capitalize.git"
+  },
+  "author": "“Abdulla <“thanseehabdulla@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanseehabdulla/capitalize/issues"
+  },
+  "homepage": "https://github.com/thanseehabdulla/capitalize#readme"
+}
